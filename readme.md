@@ -1,0 +1,13 @@
+- __get __set
+- __call
+- Array type
+- [PHP: Magic Methods - Manual](https://www.php.net/manual/en/language.oop5.magic.php)
+- yield/Generators
+-  SeekableIterator, RecursiveIterator, OuterIterator, ArrayAccess, Serializable, Countable
+- Fiber php 8
+- WeakReference
+- Clojure
+- Stringable
+- spl_autoload_register
+- Reflection
+- Strange language features $$test
