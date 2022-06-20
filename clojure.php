@@ -7,8 +7,6 @@
 
 
 $test = function ($test){
-
-
     var_dump($test);
     return "return $test";
 };
